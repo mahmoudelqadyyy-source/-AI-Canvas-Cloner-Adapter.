@@ -1,0 +1,5 @@
+{
+  "name": "AI Canvas Cloner & Adapter",
+  "description": "SaaS platform to transform UI screenshots into functional React/Tailwind code with a Similarity Slider.",
+  "requestFramePermissions": []
+}
